@@ -1,0 +1,53 @@
+{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  font-size: 120%;
+  background:  #E6E6FA;
+  background-image:url('../img/background.png')!important;
+}
+.header{
+  width: 30%;
+  margin: 50px auto 0px;
+  color: white;
+  background: #080800;
+  text-align: left;
+  border: 1px solid #B0C4DE;
+  border-bottom: none;
+  border-radius: 10px 10px 0px 0px;
+  padding: 20px;
+}
+.input-group label{
+  display: block;
+  text-align: left;
+  margin: 5px;
+}
+.input-group input{
+  height: 30px;
+  width: 93%;
+  padding: 4px 10px;
+  font-size: 14px;
+  border-radius: 5px;
+  border: 2px solid gray;
+}
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+	text-align:center;
+}
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a.active {
+    background-color: #008000;
+    color: white;
+}
+   
+       

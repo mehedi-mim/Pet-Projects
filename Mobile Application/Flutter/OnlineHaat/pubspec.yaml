@@ -1,0 +1,49 @@
+name: OnlineHaat
+description: A new Flutter project.
+
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+   sdk: flutter
+    
+  carousel_pro: ^1.0.0
+
+
+carousel_pro: ^1.0.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/img1.jpg
+    - images/img2.jpg
+    - images/img3.jpg
+    - images/img4.jpg
+    - images/img5.jpg
+    - images/img6.jpg
+    - images/cats/accessories.png
+    - images/cats/dress.png
+    - images/cats/formal.png
+    - images/cats/informal.png
+    - images/cats/jeans.png
+    - images/cats/shoe.png
+    - images/cats/tshirt.png
+    - images/products/blazer1.jpeg
+    - images/products/blazer2.jpeg
+    - images/products/dress1.jpeg
+    - images/products/dress2.jpeg
+    - images/products/hills1.jpeg
+    - images/products/hills2.jpeg
+    - images/products/pants1.jpg
+    - images/products/pants2.jpeg
+    - images/products/shoe1.jpg
+    - images/products/skt1.jpeg
+    - images/products/skt2.jpeg
+    
